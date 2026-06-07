@@ -62,31 +62,10 @@
 
 ---
 
-# 🐍 Contribution
+# 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/KhushiJindal09/KhushiJindal09/output/snake.svg"/>
-</p>
-
----
-
-# 🎥 Developer Life
-
-<p align="center">
-  <video src="https://cdn.coverr.co/videos/coverr-working-on-laptop-5176/1080p.mp4" width="500" autoplay loop muted></video>
-</p>
-
----
-
-# 🌐 Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/khushi-jindal-a39b44324/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
-  </a>
-  <a href="mailto:jindalkhushi0908@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="35"/>
-  </a>
 </p>
 
 ---
