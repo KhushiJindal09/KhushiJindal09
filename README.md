@@ -1,99 +1,108 @@
-## Hi there 👋
-<!-- 🌌 MINIMAL PREMIUM HEADER -->
+<h1 align="center">Hi 👋, I'm Khushi</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:0f2027,100:2c5364&height=180&section=header&text=Khushi&fontSize=35&fontColor=ffffff"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Learning+by+Building;Exploring+DSA+and+Development;Curious+About+How+Things+Work;Future+Software+Engineer" />
 </p>
 
-<!-- ✨ SUB HEADING -->
+<p align="center">
+  <img src="gitbio.gif" width="80%" />
+</p>
+
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=Full+Stack+Learner;DSA+%2B+Core+CS;Future+Software+Engineer" />
+✨ Building things that don't always behave ✨
 </h3>
 
----
-
-# 🌌 About Me
-
-<img align="right" height="200" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
-
-Curious Computer Science student who enjoys building things and understanding how they work.
-</h3>
-<div>
-
-<h3>What I'm usually doing</h3>
-
-🧠 Learning new technologies<br>
-💡 Experimenting with ideas<br>
-🛠 Building small projects<br>
-🧩 Improving problem-solving skills
-
-</div>
-
----
-
-# 💻 Skills & Technologies
-
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,postman,figma,vercel,netlify" />
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Operating%20Systems-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Computer%20Networks-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DBMS-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OOPs-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Structures-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Algorithms-111111?style=for-the-badge"/>
-
+  <i>Learning by building, growing by debugging.</i>
 </p>
 
 ---
 
-# 📊 GitHub Stats
+## 🌸 About Me
+
+* 🎓 Computer Science Student
+* 🧠 Exploring Data Structures & Algorithms
+* 💻 Learning Full Stack Development
+* 🚀 Building projects and improving problem-solving skills
+* 🔍 Curious about how things work behind the scenes
+* 🌱 Growing one commit at a time
+
+---
+
+## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KhushiJindal09&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhushiJindal09&theme=github-dark&hide_border=true"/>
+  <img src="https://skillicons.dev/icons?i=cpp,java,html,css,js,react,nodejs,express,mongodb,postgres,github,tailwind,vscode,postman" />
 </p>
 
 ---
-<h2 align="center">🌱 Let's Connect</h2>
+
+## 📈 Coding Journey
+
+```text
+🌱 Learning
+███████████████░░░░░ 75%
+
+💻 Development
+█████████████░░░░░░░ 65%
+
+🧩 Problem Solving
+████████████████░░░░ 80%
+
+☕ Debugging Skills
+██████████████████░░ 90%
+```
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/KashviSoni01">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KhushiJindal09&show_icons=true&theme=radical" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhushiJindal09&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=KhushiJindal09&theme=radical&border_radius=10" />
+</p>
+
+---
+
+## 🎯 Currently Working On
+
+* 📚 Strengthening DSA fundamentals
+* 🌐 Improving Web Development skills
+* 🏗 Building real-world projects
+* 🚀 Preparing for internships and placements
+
+---
+
+## 🌱 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/KhushiJindal09">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/kashvi-soni-108630331">
+  <a href="https://www.linkedin.com/in/khushi-jindal-a39b44324/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://leetcode.com/u/KashviSoni_/">
-    <img src="https://img.shields.io/badge/LeetCode-FE7A16?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <a href="mailto:jindalkhushi0908@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KhushiJindal09/KhushiJindal09/output/snake.svg"/>
+  <img src="https://raw.githubusercontent.com/KhushiJindal09/KhushiJindal09/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
 
-# ✨ Mindset
-
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
-</p>
-
----
-
-<!-- FOOTER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=100&section=footer"/>
+  <i>Somewhere between "it works" and "how does it work?"</i>
 </p>
