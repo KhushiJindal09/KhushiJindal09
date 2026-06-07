@@ -20,12 +20,19 @@
 
 ## 🌸 About Me
 
-* 🎓 Computer Science Student
-* 🧠 Exploring Data Structures & Algorithms
-* 💻 Learning Full Stack Development
-* 🚀 Building projects and improving problem-solving skills
-* 🔍 Curious about how things work behind the scenes
-* 🌱 Growing one commit at a time
+<h3 align="center">
+Curious Computer Science student who enjoys building things and understanding how they work.
+</h3>
+<div>
+
+<h3>What I'm usually doing</h3>
+
+🧠 Learning new technologies<br>
+💡 Experimenting with ideas<br>
+🛠 Building small projects<br>
+🧩 Improving problem-solving skills
+
+</div>
 
 ---
 
