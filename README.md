@@ -15,14 +15,18 @@
 
 <img align="right" height="200" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-- 🔭 Working on **Full Stack Development + DSA**
-- 🌱 Learning **MERN Stack & Core CS Subjects**
-- 🧠 Focused on **problem solving & logic building**
-- 🤝 Open to collaborate on **frontend & beginner-friendly projects**
-- 💬 Ask me about **C, C++, Java, JS, React, SQL, OOPs, OS, CN, DBMS**
-- ⚡ I enjoy solving problems (even when they frustrate me 😄)
+Curious Computer Science student who enjoys building things and understanding how they work.
+</h3>
+<div>
 
----
+<h3>What I'm usually doing</h3>
+
+🧠 Learning new technologies<br>
+💡 Experimenting with ideas<br>
+🛠 Building small projects<br>
+🧩 Improving problem-solving skills
+
+</div>
 
 # 💻 Skills & Technologies
 
@@ -45,7 +49,7 @@
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KhushiJindal09&show_icons=true&theme=github_dark&hide_border=true"/>
@@ -53,14 +57,22 @@
 </p>
 
 ---
-
-# 📈 Activity
+<h2 align="center">🌱 Let's Connect</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhushiJindal09&theme=github-dark"/>
+  <a href="https://github.com/KashviSoni01">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/kashvi-soni-108630331">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://leetcode.com/u/KashviSoni_/">
+    <img src="https://img.shields.io/badge/LeetCode-FE7A16?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
 </p>
 
----
 
 # 🐍 Contribution Snake
 
