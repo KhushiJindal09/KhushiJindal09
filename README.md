@@ -28,6 +28,8 @@ Curious Computer Science student who enjoys building things and understanding ho
 
 </div>
 
+---
+
 # 💻 Skills & Technologies
 
 <p align="center">
@@ -73,6 +75,7 @@ Curious Computer Science student who enjoys building things and understanding ho
   </a>
 </p>
 
+---
 
 # 🐍 Contribution Snake
 
