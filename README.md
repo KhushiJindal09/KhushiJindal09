@@ -87,7 +87,7 @@ Curious Computer Science student who enjoys building things and understanding ho
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KhushiJindal09/KhushiJindal09/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/KhushiJindal09/KhushiJindal09/output/snake.svg" alt="snake animation"/>
 </p>
 
 ---
