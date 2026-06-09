@@ -47,11 +47,6 @@ Curious Computer Science student who enjoys building things and understanding ho
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KhushiJindal09&show_icons=true&theme=radical" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhushiJindal09&layout=compact&theme=radical" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=KhushiJindal09&theme=radical&border_radius=10" />
 </p>
 
