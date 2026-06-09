@@ -44,24 +44,6 @@ Curious Computer Science student who enjoys building things and understanding ho
 
 ---
 
-## 📈 Coding Journey
-
-```text
-🌱 Learning
-███████████████░░░░░ 75%
-
-💻 Development
-█████████████░░░░░░░ 65%
-
-🧩 Problem Solving
-████████████████░░░░ 80%
-
-☕ Debugging Skills
-██████████████████░░ 90%
-```
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
